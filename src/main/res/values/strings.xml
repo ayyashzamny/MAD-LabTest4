@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDo-My try</string>
+    <string name="todo_delete_button">Delete</string>
+</resources>
